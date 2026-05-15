@@ -201,9 +201,14 @@ plt.show()
 
 TEST_PREDICTION
 
+<img width="875" height="470" alt="image" src="https://github.com/user-attachments/assets/c81e3d5b-cd5f-41af-8a1a-8dc4a0fa9173" />
+<img width="900" height="751" alt="image" src="https://github.com/user-attachments/assets/f626fab4-255b-4a40-9401-2c70ec7e5e3e" />
 
 
 FINAL_PREDICTION
+<img width="875" height="470" alt="image" src="https://github.com/user-attachments/assets/58390780-fef0-4e1b-9905-289774c8ea99" />
+<img width="851" height="470" alt="image" src="https://github.com/user-attachments/assets/b8ba620f-566b-479d-bf2b-2355c52d839b" />
+
 
 ### RESULT:
 Thus the program run successfully based on the Holt Winters Method model.
